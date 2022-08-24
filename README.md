@@ -26,7 +26,7 @@
 ## Finals
 * Fakarny(IOT)
 * RS
-* <IT /> (AI-Few BE)
+* <IT\> (AI-Few BE)
 * Digitizer
 * Animare-Anime choatic
 * 
