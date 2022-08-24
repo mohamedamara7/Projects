@@ -21,3 +21,15 @@
 ## Stanford
 ### Fall 2021
 * Classification of Medical Imagery using DL???????
+
+
+## Finals
+* Fakarny(IOT)
+* RS
+* <IT /> (AI-Few BE)
+* Digitizer
+* Animare-Anime choatic
+* 
+
+## Others
+* NightWatcher
