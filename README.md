@@ -38,5 +38,5 @@ real-time. It also detects traffic violations. </p>
   <p>Technologies: Machine Learning, Computer vision</p>
   
 * <p>Ai generated image-video</p>
-* 
+
 * <p>Recommendation systems</p>
