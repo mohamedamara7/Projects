@@ -21,7 +21,7 @@
   <p>Technologies: Image processing, Computer vision, Machine learning.</p>
   <p style="text-align: right "> Argus detects road accidents and reports them almost in real-time. It also detects traffic violations. </p>
 
-* Breast Cancer (ML: 6 classification models - feature selection),(DL: Image).
+* Breast Cancer (ML: 6 classification models - feature selection),(DL: Image)
   <p>Technologies: Machine Learning, Computer vision</p>
   
 * <p>Ai generated image-video</p>
